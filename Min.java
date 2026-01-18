@@ -1,5 +1,4 @@
 import java.util.*;
- 
 public class Min{
     public static int getMin(int numbers[]) {
         int min= Integer.MAX_VALUE;
