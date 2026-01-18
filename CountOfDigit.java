@@ -16,5 +16,4 @@ public class CountOfDigit {
          System.out.println("Count of digits is "+c);
          sc.close();
 	}
-
 }
