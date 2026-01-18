@@ -2,7 +2,6 @@ import java.util.*;
 
 public class  Largest
 {
-	
 	public static int getLargest(int num[]) {
 		int l = Integer.MIN_VALUE;
 		for(int i =0; i<num.length; i++) {
